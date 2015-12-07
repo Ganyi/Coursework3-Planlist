@@ -1,0 +1,51 @@
+
+/* Class = "UILabel"; text = "Select Icon"; ObjectID = "0Gt-4n-D4v"; */
+"0Gt-4n-D4v.text" = "Select Icon";
+
+/* Class = "UILabel"; text = "Remind time"; ObjectID = "1Px-hw-wSK"; */
+"1Px-hw-wSK.text" = "Remind time";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "2yI-ti-9Jp"; */
+"2yI-ti-9Jp.title" = "Cancel";
+
+/* Class = "UITextField"; placeholder = "Add event here please"; ObjectID = "3RS-sc-jna"; */
+"3RS-sc-jna.placeholder" = "Add event here please";
+
+/* Class = "UINavigationItem"; title = "Add Event"; ObjectID = "6nS-fo-hnt"; */
+"6nS-fo-hnt.title" = "Add Event";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "9ko-2L-VTN"; */
+"9ko-2L-VTN.title" = "Cancel";
+
+/* Class = "UINavigationItem"; title = "Items"; ObjectID = "BFg-sB-0o3"; */
+"BFg-sB-0o3.title" = "Items";
+
+/* Class = "UINavigationItem"; title = "Select Icons"; ObjectID = "EdX-1e-Gpn"; */
+"EdX-1e-Gpn.title" = "Select Icons";
+
+/* Class = "UIBarButtonItem"; title = "Finish"; ObjectID = "EvQ-AP-fj7"; */
+"EvQ-AP-fj7.title" = "Finish";
+
+/* Class = "UILabel"; text = "Remind me!!"; ObjectID = "IrD-Nl-Pmq"; */
+"IrD-Nl-Pmq.text" = "Remind me!!";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "NLv-Oy-Nd2"; */
+"NLv-Oy-Nd2.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Please enter the name of the item!"; ObjectID = "R2l-h8-j2L"; */
+"R2l-h8-j2L.placeholder" = "Please enter the name of the item!";
+
+/* Class = "UINavigationItem"; title = "Add Items"; ObjectID = "cWB-bT-r7p"; */
+"cWB-bT-r7p.title" = "Add Items";
+
+/* Class = "UIBarButtonItem"; title = "Finish"; ObjectID = "jJi-fg-ZXp"; */
+"jJi-fg-ZXp.title" = "Finish";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "ldF-BL-ZQ4"; */
+"ldF-BL-ZQ4.text" = "Detail";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "oY7-cG-stV"; */
+"oY7-cG-stV.text" = "Title";
+
+/* Class = "UINavigationItem"; title = "(Name of planlist)"; ObjectID = "zZj-zC-YHT"; */
+"zZj-zC-YHT.title" = "(Name of planlist)";
