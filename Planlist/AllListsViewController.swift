@@ -34,6 +34,7 @@ class AllListsViewController: UITableViewController, ListDetailViewControllerDel
         super.viewWillAppear(animated)
         tableView.reloadData()
     }
+
   // setup footer label
   
   func setupFooterLabel() {

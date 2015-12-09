@@ -103,9 +103,6 @@ class ItemDetailViewController: UITableViewController,UITextFieldDelegate {
             tableView.endUpdates()
             
             
-            
-            
-            
         }
     }
     
