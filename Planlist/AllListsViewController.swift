@@ -96,7 +96,7 @@ class AllListsViewController: UITableViewController, ListDetailViewControllerDel
         cell.textLabel?.textColor = view.tintColor
         cell.detailTextLabel?.textColor = view.tintColor
        
-        
+        //Dynamic lable changes according to the rest events
         let count = checklist.countUncheckedItems()
         if checklist.items.count == 0 {
             cell.detailTextLabel!.text = "No event"
@@ -112,7 +112,7 @@ class AllListsViewController: UITableViewController, ListDetailViewControllerDel
         
         return cell
     }
-  
+ //Tap events
   func accessoryTapped(sender: AnyObject,event: AnyObject) {
     let touches = event.allTouches()
 

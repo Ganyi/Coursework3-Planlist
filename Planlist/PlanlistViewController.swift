@@ -23,8 +23,6 @@ class ChecklistsViewController: UIViewController,ItemDetailViewControllerDelegat
       tableView.rowHeight = 50
       tableView.separatorInset = UIEdgeInsets(top: 0,left: 25,bottom: 0,right: 0)
       
-      
-      
       for item in list.items as [ChecklistItem] {
         if item.checked == true {
           checkedItems.append(item)
@@ -38,10 +36,10 @@ class ChecklistsViewController: UIViewController,ItemDetailViewControllerDelegat
       setupFooterLabel()
       updateFooterLabel()
      
-        // Do any additional setup after loading the view, typically from a nib.
+// Do any additional setup after loading the view, typically from a nib.
     }
   
-  // setup footer label
+// setup footer label
   
   func setupFooterLabel() {
     label.frame = CGRectMake(0, view.frame.size.height / 2, view.frame.size.width,50)
@@ -52,7 +50,7 @@ class ChecklistsViewController: UIViewController,ItemDetailViewControllerDelegat
     label.font = font!
     
   }
-  
+// make the lable dynamic
   func updateFooterLabel() {
     
     
@@ -75,8 +73,6 @@ class ChecklistsViewController: UIViewController,ItemDetailViewControllerDelegat
     }
   }
 
-
-  
   func tableView(tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
     if section == 0 {
       return list.items.count - list.checkedNum
@@ -86,8 +82,7 @@ class ChecklistsViewController: UIViewController,ItemDetailViewControllerDelegat
     
   }
   
-  
-  
+
   func numberOfSectionsInTableView(tableView: UITableView) -> Int {
     return 2
   }

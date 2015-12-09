@@ -170,6 +170,7 @@ class ItemDetailViewController: UITableViewController,UITextFieldDelegate {
         return super.tableView(tableView , indentationLevelForRowAtIndexPath: indexPath)
     }
     
+    //The datepicker and button about Notification
     func dateChanged(datePicker: UIDatePicker) {
         dueDate = datePicker.date
         updateDueDateLabel()

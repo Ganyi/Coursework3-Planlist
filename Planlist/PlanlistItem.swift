@@ -45,6 +45,7 @@ class ChecklistItem: NSObject,NSCoding {
         super.init()
     }
     
+//To achieve notification
     
   func scheduleNotification() {
     let existingNotification = notificationForThisItem()

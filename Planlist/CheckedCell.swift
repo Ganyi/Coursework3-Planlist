@@ -6,7 +6,7 @@ class CheckedCell: UITableViewCell {
   override func awakeFromNib() {
     print("awakefromNib")
   }
-  
+  //set the layout of the chekced cell
   func configureCell(item: ChecklistItem) {
     let textFont = UIFont(name: "DFWaWaSC-W5", size: 17.0)
     let detailFont = UIFont(name: "DFWaWaSC-W5", size: 12.0)
